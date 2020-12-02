@@ -1,4 +1,4 @@
-# Day 1: Implement a Stack Class
+# Days 1-2: Implement a Stack Class
 
 **Fork and then clone me!**
 
