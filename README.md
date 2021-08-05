@@ -48,12 +48,12 @@ Add the following methods to the Stack class:
 
 `search` returns an Integer representing how far the target item is from the top of the stack. If the item is not in the Stack, return `-1`. Example:
 
-```
+```js
 // Stack = 1, 2, 3, 4, 5 <-top
 
-stack.search(5) => 0
-stack.search(4) => 1
-stack.search(6) => -1
+stack.search(5); // => 0
+stack.search(4); // => 1
+stack.search(6); // => -1
 ```
 
 ### `print`
